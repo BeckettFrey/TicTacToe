@@ -1,2 +1,2 @@
 # TicTacToe
-Flex Box practice, simple tictactoe.
+Practice for HTML, JS, CSS.
